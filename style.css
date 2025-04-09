@@ -1,0 +1,115 @@
+.d1{
+width:100vw;
+height:8vh;
+
+display:flex;
+justify-content:center;
+align-items:center;
+
+
+font-family:"Gothem SSm";
+font-size: 14px;
+color:rgb(100,100,100);
+
+}
+.body{
+
+    margin:0px;
+}
+.a1{
+
+    color:rgb(100,100,100);
+    margin-left:5px;
+    text-underline-offset: 3px;
+}
+.d2{
+width: 100vw;
+height: 92vh;
+background-color:transparent;
+position:fixed;
+
+}
+.i1{
+width:120px;
+margin-left:50px;
+margin-top:22px;
+
+}
+.ul1{
+
+    List-style:none;
+    margin-left:238px;
+    margin-top:-20px;
+}
+.li1{
+
+    color:white;
+    display: inline;
+    margin-left:30px;
+
+    font-family:"Gothem SSm";
+    font-size:14px;
+    font-weight: 500;
+}
+    .ul2{
+
+        list-style:none;
+        margin-left:1045px;
+        margin-top:-34px;
+    }
+    .d3{
+color:white;
+font-size:40px;
+justify-content:center;
+align-items:center;
+display:flex;
+margin-top:30px;
+font-family:"Gothem SSm";
+font-weight:500;
+    }
+    .d4{
+color:white;
+font-size:14px;
+font-family:"Gothem SSm";
+justify-content:center;
+display:flex;
+margin-top:7px;
+
+
+
+    }
+    .d5{
+justify-content:center;
+align-items:center;
+display:flex;
+margin-top:355px;
+
+    }
+    .btn{
+width:270px;
+height:40px;
+margin-top:-8px;
+margin-left:-10px;
+
+font-size:14;
+background-color:transparent;
+font-weight:500;
+
+color:white;
+font-family:"Gothem SSm";
+
+border-style:solid;
+border-color:white;
+border-width:3px;
+border-radius:8px;
+
+    }
+    .v1{
+width:100vw;
+height:92vh;
+object-fit:cover;
+position:fixed;
+
+    }
+
+  
